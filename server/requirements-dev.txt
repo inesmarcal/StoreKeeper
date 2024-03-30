@@ -1,6 +1,7 @@
 pdbpp>=0.8.3
 pep8>=1.6.2
-pylint>=1.4.3
+pylint>=2.7.0
 pytest>=2.8.0
 pytest-cov>=1.8.1
 pytest-xdist>=1.11
+pygments>=2.15.0 # not directly required, pinned by Snyk to avoid a vulnerability
